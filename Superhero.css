@@ -1,0 +1,41 @@
+body{
+	margin: 0px;
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.right {
+
+  margin: auto;
+  right: 0px;
+  width: 40%;
+  padding: 10px;
+}
+main{
+	margin: 0 auto;
+}
+header{
+	background-color: #21b600;
+	padding:20px;
+}
+header img{
+	border-radius: 200px;
+	border: 10px solid;
+	width: 400px;
+	height: 400px;
+}
+main{
+	margin: 0 auto;
+	padding: 0 20px 0 20px;
+	text-align: left;
+}
+main img{
+	max-width: 100%;
+}
+footer{
+	background-color: #21b600; 
+	padding:20px;
+}
